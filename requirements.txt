@@ -1,0 +1,9 @@
+eyeD3
+lyricsgenius
+requests
+spotipy
+youtube_dl
+youtube_search
+telepot
+Pyrogram
+TgCrypto
