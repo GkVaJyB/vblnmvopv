@@ -1,0 +1,17 @@
+{
+  "name": "Asanga",
+  "env": {
+    "BOT_TOKEN": {
+      "description": "You bot token",
+      "value": ""
+}
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    }
+  ]
+}
